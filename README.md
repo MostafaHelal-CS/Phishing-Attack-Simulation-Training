@@ -13,4 +13,5 @@ Your email address has been leaked and you receive an email from Paypal in Germa
 ## Phishing Attack Simulation and Training Resources
 
 - [Show the video file](https://drive.google.com/file/d/1A3De55drDmFWkwiRQbAT18I-Yhs0jnzh/view?usp=drive_link)
+- [Project Files](https://drive.google.com/drive/folders/1SuaRSFU-rUZknpvc6KfQlzXEUSYNDJdG?usp=drive_link)
 -----------------------------------------------------------------------------------------------------------------------
