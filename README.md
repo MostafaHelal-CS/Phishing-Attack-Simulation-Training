@@ -10,4 +10,7 @@ is to outline the procedures and best practices for conducting a phishing attack
 # Scenario
 Your email address has been leaked and you receive an email from Paypal in German. Try to analyze the suspicious email.
 
+## Phishing Attack Simulation and Training Resources
+
+- [Show the video file](https://drive.google.com/file/d/1A3De55drDmFWkwiRQbAT18I-Yhs0jnzh/view?usp=drive_link)
 -----------------------------------------------------------------------------------------------------------------------
